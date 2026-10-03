@@ -1,4 +1,4 @@
-# Hi, I'm Aidan Wenceslaus 👋
+# Hi, I'm Aidan Wenceslaus
 
 Software developer and Business Information Systems graduate (University of Dodoma) based in Dar es Salaam, Tanzania. I understand how a business runs, then design and build software and websites that improve it.
 
