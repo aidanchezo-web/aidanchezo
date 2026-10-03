@@ -41,4 +41,5 @@ Each project starts with a real business problem. The pinned repositories below 
 
 ## Let's connect
 📧 [aidanchezo@gmail.com](mailto:aidanchezo@gmail.com)
+
 Contact: +255792822922
